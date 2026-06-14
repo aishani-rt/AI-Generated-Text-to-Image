@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # ✨ AI Image Generator
 
 A modern web application that generates AI images from text prompts. Built with React, FastAPI, and powered by Pollinations AI.
@@ -124,4 +124,4 @@ Created as an AI Image Generator internship project
 ---
 
 **Made with ❤️ for AI and web development**
-EOF
+
